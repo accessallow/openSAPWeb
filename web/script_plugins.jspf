@@ -1,0 +1,13 @@
+<script src="http://localhost/bootstrap2/bootstrap_plugins/jquery.js"></script>
+<script src="http://localhost/bootstrap2/bootstrap_plugins/bootstrap-transition.js"></script>
+<script src="http://localhost/bootstrap2/bootstrap_plugins/bootstrap-alert.js"></script>
+<script src="http://localhost/bootstrap2/bootstrap_plugins/bootstrap-modal.js"></script>
+<script src="http://localhost/bootstrap2/bootstrap_plugins/bootstrap-dropdown.js"></script>
+<script src="http://localhost/bootstrap2/bootstrap_plugins/bootstrap-scrollspy.js"></script>
+<script src="http://localhost/bootstrap2/bootstrap_plugins/bootstrap-tab.js"></script>
+<script src="http://localhost/bootstrap2/bootstrap_plugins/bootstrap-tooltip.js"></script>
+<script src="http://localhost/bootstrap2/bootstrap_plugins/bootstrap-popover.js"></script>
+<script src="http://localhost/bootstrap2/bootstrap_plugins/bootstrap-button.js"></script>
+<script src="http://localhost/bootstrap2/bootstrap_plugins/bootstrap-collapse.js"></script>
+<script src="http://localhost/bootstrap2/bootstrap_plugins/bootstrap-carousel.js"></script>
+<script src="http://localhost/bootstrap2/bootstrap_plugins/bootstrap-typeahead.js"></script>
