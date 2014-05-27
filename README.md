@@ -9,7 +9,8 @@ Setup instruction to OpenSAPWeb Development on your machine:
 
 (1) Install Apache Web Server or any other MySQL provider on your machine.
 <br/>
-(2) use d2.sql and restore database d2 in mysql database server.
+(2) use <a href="https://github.com/accessallow/openSAPWeb/blob/master/d2.sql">d2.sql</a>
+ and restore database d2 in mysql database server.
 <br/>
 (3) Clone the project in netbeans:
 <br/>
