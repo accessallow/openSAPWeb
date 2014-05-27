@@ -10,8 +10,8 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <link rel="stylesheet" href="http://localhost/bootstrap2/css/bootstrap.css"/>
-        <link rel="stylesheet" href="http://localhost/bootstrap2/css/bootstrap-theme.css"/>
+        <link rel="stylesheet" href="bootstrap2/css/bootstrap.css"/>
+        <link rel="stylesheet" href="bootstrap2/css/bootstrap-theme.css"/>
         <title>JSP Page</title>
         <style>
             .container{
